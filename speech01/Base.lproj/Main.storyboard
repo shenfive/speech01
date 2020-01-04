@@ -40,6 +40,9 @@
                                     <constraint firstAttribute="height" constant="30" id="pIz-CB-5Xu"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
+                                <connections>
+                                    <action selector="startAudio:" destination="BYZ-38-t0r" eventType="touchUpInside" id="v20-Lf-SdN"/>
+                                </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
